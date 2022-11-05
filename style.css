@@ -51,7 +51,6 @@ header {
   flex-direction: column;
   gap: 20px;
   padding-left: 16px;
-
 }
 
 .headline-section > h1 {
@@ -90,4 +89,3 @@ header {
   background: #1a2236;
   padding: 12px 42px;
 }
-
