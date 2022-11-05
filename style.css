@@ -16,10 +16,11 @@ body {
 header {
   position: absolute;
   top: 0;
-  height: 440px;
+  height: 627px;
   width: 320px;
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .headline {
@@ -33,6 +34,7 @@ header {
   height: 74px;
   left: 0;
   top: 0;
+  background-image: url("./Images\ Gallery/Header Image.png");
 }
 
 .menu {
@@ -41,6 +43,7 @@ header {
   height: 14px;
   left: 284px;
   top: 19px;
+  background-image: url("./Images\ Gallery/ic_menu.png");
 }
 
 .headline-section {
@@ -50,18 +53,18 @@ header {
   padding-left: 16px;
 }
 
-.headline-section > h1 {
+.headline-section>h1 {
   font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 50px;
-  line-height: 100%;
+  font-size: 14px;
+  line-height: 21px;
   color: #1a2236;
-  width: 220px;
-  height: 100px;
+  width: 288px;
+  height: 14px;
 }
 
-.headline-section > p {
+.headline-section>p {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -73,7 +76,7 @@ header {
   height: 126px;
 }
 
-.headline-section > button {
+.headline-section>button {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
