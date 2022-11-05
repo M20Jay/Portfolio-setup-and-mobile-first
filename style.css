@@ -51,9 +51,10 @@ header {
   flex-direction: column;
   gap: 20px;
   padding-left: 16px;
+
 }
 
-.headline-section>h1 {
+.headline-section > h1 {
   font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -64,7 +65,7 @@ header {
   height: 100px;
 }
 
-.headline-section>p {
+.headline-section > p {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -76,7 +77,7 @@ header {
   height: 126px;
 }
 
-.headline-section>button {
+.headline-section > button {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
