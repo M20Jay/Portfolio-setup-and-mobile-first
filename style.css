@@ -16,11 +16,10 @@ body {
 header {
   position: absolute;
   top: 0;
-  height: 627px;
+  height: 440px;
   width: 320px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
 }
 
 .headline {
@@ -34,7 +33,6 @@ header {
   height: 74px;
   left: 0;
   top: 0;
-  background-image: url("./image/image1.png");
 }
 
 .menu {
@@ -43,7 +41,6 @@ header {
   height: 14px;
   left: 284px;
   top: 19px;
-  background-image: url("./image/icon.svg");
 }
 
 .headline-section {
@@ -88,11 +85,4 @@ header {
   height: 50px;
   background: #1a2236;
   padding: 12px 42px;
-}
-
-header > img {
-  position: absolute;
-  width: 320px;
-  height: 160px;
-  top: 440px;
 }
